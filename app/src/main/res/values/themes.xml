@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.CalculatorApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Optional: Add your colors here -->
+        <item name="colorPrimary">#6200EE</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#03DAC5</item>
+        <item name="colorOnSecondary">#000000</item>
+        <item name="android:statusBarColor" tools:targetApi="l">#000000</item>
+    </style>
+</resources>
+
